@@ -1,9 +1,7 @@
 
-To install the necessary dependencies for this program, include `scipy` in your `requirements.txt` file:
+Necessary dependencies: scipy
 
-```
-scipy
-```
+pip install scipy
 
 You can then install all required packages with the following command:
 
